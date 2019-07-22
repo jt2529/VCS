@@ -6,6 +6,7 @@ public class ModelObject : MonoBehaviour
 {
     public Transform model;
     public bool left;
+    public Vector3 position;
     // Start is called before the first frame update
     void Awake()
     {
@@ -28,6 +29,8 @@ public class ModelObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.transform.SetPositionAndRotation(model.position, model.rotation);
+        position = model.position;
+        position.y = position.y + (float)0.3;
+        this.transform.SetPositionAndRotation(position, model.rotation);
     }
 }

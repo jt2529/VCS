@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Multiplayer VRTK Test Scene.unity
-    guid: f2ebf703714228440bd8451426bf7a29
+    path: Assets/Scenes/Multiplayer Testing.unity
+    guid: 9279c2b25d0d30843a934b966d069573
   m_configObjects: {}

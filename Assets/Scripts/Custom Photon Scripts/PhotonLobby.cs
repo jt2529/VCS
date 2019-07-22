@@ -38,7 +38,8 @@ public class PhotonLobby : MonoBehaviourPunCallbacks
     {
         Debug.Log("Player has connected to the Photon Master Server");
         PhotonNetwork.AutomaticallySyncScene = true;
-        PhotonNetwork.JoinRandomRoom();
+        RoomOptions roomOptions = new RoomOptions() { IsVisible = true, IsOpen = true, MaxPlayers = 20 };
+        PhotonNetwork.JoinOrCreateRoom("Dingus", roomOptions, null);
     }
 
     public override void OnJoinRandomFailed(short returnCode, string message)
