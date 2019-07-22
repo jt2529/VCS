@@ -20,20 +20,6 @@ public class PhotonLobby : MonoBehaviourPunCallbacks
         PhotonNetwork.ConnectUsingSettings();
     }
 
-    public void OnJoinButtonClicked()
-    {
-        battleButton.SetActive(false);
-        cancelButton.SetActive(true);
-        PhotonNetwork.JoinRandomRoom();
-    }
-
-    public void OnCancelButtonClicked()
-    {
-        cancelButton.SetActive(false);
-        battleButton.SetActive(true);
-        PhotonNetwork.LeaveRoom();
-    }
-
     public override void OnConnectedToMaster()
     {
         Debug.Log("Player has connected to the Photon Master Server");
