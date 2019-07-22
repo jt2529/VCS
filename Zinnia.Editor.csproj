@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{08B2F913-0BC8-D684-D668-3ADC5D88D364}</ProjectGuid>
+    <ProjectGuid>{440247F0-88ED-1EDE-964E-79ABD74A5BF6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Zinnia.Editor</AssemblyName>
@@ -290,7 +290,7 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.FodyRunner.UnityIntegration">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Editor/Malimbe.FodyRunner.UnityIntegration.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Editor/Malimbe.FodyRunner.UnityIntegration.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -649,11 +649,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Zinnia.Runtime.csproj">
-      <Project>{D7ADEB33-DECE-DD0E-C186-F296ED836E77}</Project>
+      <Project>{254D2222-81F2-BDCE-97BE-BD8C5EC9A895}</Project>
       <Name>Zinnia.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Supyrb.Editor.csproj">
-      <Project>{B14A545C-F82C-AEC0-A02A-C524C5AE6B77}</Project>
+      <Project>{7908B54B-12EC-410D-CB7F-DC420F02EF2B}</Project>
       <Name>Supyrb.Editor</Name>
     </ProjectReference>
   </ItemGroup>

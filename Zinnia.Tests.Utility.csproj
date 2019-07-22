@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{81BE4001-466F-CB99-5930-28D3F8C3342B}</ProjectGuid>
+    <ProjectGuid>{3282F0D5-1E34-6EE2-6436-2A3319EF5BC1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Zinnia.Tests.Utility</AssemblyName>
@@ -633,7 +633,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Zinnia.Runtime.csproj">
-      <Project>{D7ADEB33-DECE-DD0E-C186-F296ED836E77}</Project>
+      <Project>{254D2222-81F2-BDCE-97BE-BD8C5EC9A895}</Project>
       <Name>Zinnia.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

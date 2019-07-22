@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D7ADEB33-DECE-DD0E-C186-F296ED836E77}</ProjectGuid>
+    <ProjectGuid>{254D2222-81F2-BDCE-97BE-BD8C5EC9A895}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Zinnia.Runtime</AssemblyName>
@@ -471,19 +471,19 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.BehaviourStateRequirementMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberChangeMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberClearanceMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.PropertySerializationAttribute">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.XmlDocumentationAttribute">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.5f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

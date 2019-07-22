@@ -73,12 +73,15 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
     void StartGame()
     {
         if (!PhotonNetwork.IsMasterClient)
+        { 
             return;
+        }
         PhotonNetwork.LoadLevel(multiplayerScene);
     }
 
     void OnSceneFinishedLoading(Scene scene, LoadSceneMode mode)
     {
+        PhotonNetwork.InstantiateSceneObject(Path.Combine("PhotonPrefabs", "PhotonApple"), transform.position, Quaternion.identity, 0);
         currentScene = scene.buildIndex;
         if (currentScene == multiplayerScene)
         {
@@ -88,8 +91,7 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
 
     private void CreatePlayer()
     {
-       // PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "PhotonNetworkPlayerModel"), transform.position, Quaternion.identity, 0);
-        PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "PhotonApple"), transform.position, Quaternion.identity, 0);
+        PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "PhotonNetworkPlayerModel"), transform.position, Quaternion.identity, 0);
     }
 
     // Update is called once per frame

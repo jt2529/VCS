@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{62779282-D32F-A36F-9433-FD6F23538C53}</ProjectGuid>
+    <ProjectGuid>{1582172D-7964-EE05-8517-2BEB1FBE08E7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>SteamVR_Editor</AssemblyName>
@@ -286,43 +286,43 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.BehaviourStateRequirementMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberChangeMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberClearanceMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.PropertySerializationAttribute">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.XmlDocumentationAttribute">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -681,7 +681,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="SteamVR.csproj">
-      <Project>{797070AA-F110-7EB3-3A28-3AD9513CFEB3}</Project>
+      <Project>{AD8C4471-ED51-BC9F-6F73-913DD48E2621}</Project>
       <Name>SteamVR</Name>
     </ProjectReference>
   </ItemGroup>

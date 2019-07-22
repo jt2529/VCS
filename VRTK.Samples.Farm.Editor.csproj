@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E2EE6EB7-7385-4D2E-C8B8-4DF8A5443805}</ProjectGuid>
+    <ProjectGuid>{EF61ED5D-8116-8FF0-4854-C4642F577BF0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VRTK.Samples.Farm.Editor</AssemblyName>
@@ -634,7 +634,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRTK.Samples.Farm.Runtime.csproj">
-      <Project>{BACDC9AE-4AEC-0BB3-95E9-998713CB6A61}</Project>
+      <Project>{431E7DB8-BB4F-6606-0F36-5652280C36F9}</Project>
       <Name>VRTK.Samples.Farm.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B14A545C-F82C-AEC0-A02A-C524C5AE6B77}</ProjectGuid>
+    <ProjectGuid>{7908B54B-12EC-410D-CB7F-DC420F02EF2B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Supyrb.Editor</AssemblyName>

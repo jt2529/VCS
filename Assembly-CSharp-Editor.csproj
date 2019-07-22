@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{934DD6A4-29B9-3448-D956-93814568517D}</ProjectGuid>
+    <ProjectGuid>{ED426525-03BC-5CC9-7C57-E8E9369F2ABD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -67,37 +67,37 @@
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\BezierSplineInspector.cs" />
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoSlotRacer\Scripts\BezierCurve\Editor\LineInspector.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -313,43 +313,43 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.BehaviourStateRequirementMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberChangeMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.MemberClearanceMethod">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.PropertySerializationAttribute">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="Malimbe.XmlDocumentationAttribute">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Assets/VRTK/Dependencies/Zinnia.Unity/Dependencies/Malimbe/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/Programs/Unity Projects/Current VCS/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/Programs/Unity Projects/VCS/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.5f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -714,83 +714,83 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{0A419550-56A8-CD04-73D2-3F1E77C03BB7}</Project>
+      <Project>{B3FB60D6-5B7A-F3D5-65B2-9702AA246E55}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj">
-      <Project>{2BC5B4E4-4034-4DAF-806C-269B4E029B01}</Project>
+      <Project>{4D6C5A29-1ED8-2ED4-7C5F-EC3D63195E7F}</Project>
       <Name>PhotonUnityNetworking.Utilities.PhotonPlayer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Supyrb.Editor.csproj">
-      <Project>{B14A545C-F82C-AEC0-A02A-C524C5AE6B77}</Project>
+      <Project>{7908B54B-12EC-410D-CB7F-DC420F02EF2B}</Project>
       <Name>Supyrb.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
-      <Project>{A7185380-3CB8-0661-1753-549E38012B54}</Project>
+      <Project>{0C6270F4-BA4A-A531-8980-053BC51292C5}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="VRTK.Prefabs.Runtime.csproj">
-      <Project>{355979CD-E827-6242-FEC9-AA8EF39A7472}</Project>
+      <Project>{3369026D-315F-32CB-5D1F-0660F0C1A1CA}</Project>
       <Name>VRTK.Prefabs.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="VRTK.Samples.Farm.Editor.csproj">
-      <Project>{E2EE6EB7-7385-4D2E-C8B8-4DF8A5443805}</Project>
+      <Project>{EF61ED5D-8116-8FF0-4854-C4642F577BF0}</Project>
       <Name>VRTK.Samples.Farm.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VRTK.Samples.Farm.Runtime.csproj">
-      <Project>{BACDC9AE-4AEC-0BB3-95E9-998713CB6A61}</Project>
+      <Project>{431E7DB8-BB4F-6606-0F36-5652280C36F9}</Project>
       <Name>VRTK.Samples.Farm.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Zinnia.Editor.csproj">
-      <Project>{08B2F913-0BC8-D684-D668-3ADC5D88D364}</Project>
+      <Project>{440247F0-88ED-1EDE-964E-79ABD74A5BF6}</Project>
       <Name>Zinnia.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonWebSocket.csproj">
-      <Project>{F54639FA-0959-88A9-8F6D-E3941F384223}</Project>
+      <Project>{E72616E3-6D0E-9BFE-3EB1-3BCCFCB7E2BC}</Project>
       <Name>PhotonWebSocket</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{226B6A05-5AD7-2AC3-96C4-ADE01D7CA262}</Project>
+      <Project>{E5F0BA36-71A5-3822-699D-24D32E4DF16D}</Project>
       <Name>PhotonRealtime</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.csproj">
-      <Project>{6EAC0104-EA50-EADA-5BB2-BA0F6107BB46}</Project>
+      <Project>{A7217A07-AD03-B707-8B58-E1B46FD56F15}</Project>
       <Name>PhotonUnityNetworking</Name>
     </ProjectReference>
     <ProjectReference Include="Zinnia.Runtime.csproj">
-      <Project>{D7ADEB33-DECE-DD0E-C186-F296ED836E77}</Project>
+      <Project>{254D2222-81F2-BDCE-97BE-BD8C5EC9A895}</Project>
       <Name>Zinnia.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Input_Editor.csproj">
-      <Project>{2C7CED2C-CD1A-C635-99FF-382B0E2C042D}</Project>
+      <Project>{AC22FC11-09EA-649D-A6B8-68D7A25224A2}</Project>
       <Name>SteamVR_Input_Editor</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Editor.csproj">
-      <Project>{62779282-D32F-A36F-9433-FD6F23538C53}</Project>
+      <Project>{1582172D-7964-EE05-8517-2BEB1FBE08E7}</Project>
       <Name>SteamVR_Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
-      <Project>{B629F103-B2B6-C1AB-90B3-28D4FB0A3C67}</Project>
+      <Project>{0C24BAD0-1042-8946-6CFA-0C719537C73B}</Project>
       <Name>PhotonChat</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Actions.csproj">
-      <Project>{81D04E06-70EE-3941-519E-B05B1371FF8A}</Project>
+      <Project>{0437285E-0A57-D34E-4219-6ACAAD7890CD}</Project>
       <Name>SteamVR_Actions</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR.csproj">
-      <Project>{797070AA-F110-7EB3-3A28-3AD9513CFEB3}</Project>
+      <Project>{AD8C4471-ED51-BC9F-6F73-913DD48E2621}</Project>
       <Name>SteamVR</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Utilities.Culling.Editor.csproj">
-      <Project>{2A54F7F8-55FD-DFB9-B88B-AD701F24FBE5}</Project>
+      <Project>{4EB220B0-0823-9A72-57B6-B34AAB39EE44}</Project>
       <Name>PhotonUnityNetworking.Utilities.Culling.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="PhotonUnityNetworking.Editor.csproj">
-      <Project>{287F3080-3AFD-4A36-1736-250283C617F0}</Project>
+      <Project>{D36567C9-103B-F448-3787-19677D9D2CB3}</Project>
       <Name>PhotonUnityNetworking.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Windows_EditorHelper.csproj">
-      <Project>{FB3408DE-2D1C-D994-333F-7D7C24BBA456}</Project>
+      <Project>{24D4B3F5-D547-79C2-B37B-306584BA4E59}</Project>
       <Name>SteamVR_Windows_EditorHelper</Name>
     </ProjectReference>
   </ItemGroup>
